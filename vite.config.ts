@@ -7,6 +7,9 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  // github/
+    base:"/fishing/",
+
   plugins: [
     vue(),
     vuetify(),
