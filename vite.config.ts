@@ -15,8 +15,15 @@ export default defineConfig({
     vuetify(),
     vueJsx()
   ],
-  define: {
-    'process.env': {}
+  // define: {
+  //   'process.env': {}
+  // },
+  css: {
+    preprocessorOptions: {
+      scss: {
+        silenceDeprecations: ["legacy-js-api"],
+      }
+    }
   },
   resolve: {
     alias: {
