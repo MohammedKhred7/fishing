@@ -1,0 +1,55 @@
+{
+  "phone": [
+    {
+      "icon": "mdi-phone",
+      "value": "+96890939958",
+      "link": "tel:+96877415346"
+    },
+    {
+      "icon": "mdi-phone",
+      "value": "+967771188277",
+      "link": "tel:+967771188277"
+    }
+  ],
+  "email": [
+    {
+      "icon": "mdi-email",
+      "value": "aljobair@arabsea-cnfc-ye.com",
+      "link": "mailto:aljobair@arabsea-cnfc-ye.com"
+    },
+    {
+      "icon": "mdi-email",
+      "value": "sales@arabsea-cnfc-ye.com",
+      "link": "mailto:sales@arabsea-cnfc-ye.com"
+    },
+    {
+      "icon": "mdi-email",
+      "value": "seafood@arabsea-cnfc-ye.cm",
+      "link": "mailto:seafood@arabsea-cnfc-ye.cm"
+    }
+  ],
+  "telphone": [
+    {
+      "icon": "mdi-phone-classic",
+      "value": "613150",
+      "link": "tel:613150"
+    },
+    {
+      "icon": "mdi-phone-classic",
+      "value": "613888",
+      "link": "tel:613888"
+    }
+  ],
+  "location": [
+    {
+      "icon": "mdi-map-marker",
+      "value": "Yemen",
+      "link": "https://maps.google.com/maps?q=15.8268763%2C52.1896095&z=17&hl=ar"
+    },
+    {
+      "icon": "mdi-fax",
+      "value": "Fax: 613999",
+      "link": ""
+    }
+  ]
+}

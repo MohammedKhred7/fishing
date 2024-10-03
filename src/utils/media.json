@@ -1,0 +1,22 @@
+[
+  {
+    "webName": "facebook",
+    "webLink": "https://facebook.com",
+    "icon": "mdi-facebook"
+  },
+  {
+    "webName": "twitter",
+    "webLink": "https://twitter.com",
+    "icon": "mdi-twitter"
+  },
+  {
+    "webName": "linkedin",
+    "webLink": "https://linkedin.com",
+    "icon": "mdi-linkedin"
+  },
+  {
+    "webName": "instagram",
+    "webLink": "https://instagram.com",
+    "icon": "mdi-instagram"
+  }
+]

@@ -1,0 +1,241 @@
+{
+  "nav": {
+    "home": "Home ",
+    "whous": "About us ",
+    "whyus": "  Why us ",
+    "facilities": "Facilities",
+    "vision": "Vision",
+    "objective": "Goals",
+    "products": "products",
+    "duty": "Duty",
+    "word": "General word",
+    "connectus": "Contact us",
+    "mainOffice": "Head Office",
+    "location": "Yemen - Al-mahra",
+    "callUs": "Contact Us"
+  },
+  "navProducts": {
+    "fish1": {
+      "name": "CUTTLEFISH",
+      "desc": " Squid (singular: cuttlefish) (scientific name: Sepiida) are marine animals belonging to the class of cephalopods of the phylum Molluscs.\n\nThe range of cephalopods includes squids, octopuses, and nuclei. The squid has an internal calcareous shell called the “balan of the sea.\n\nIt is an internal calcareous shell whose spaces are filled with gas, and by changing the amount of gas, the squid can control buoyancy and diving. Its lifespan ranges from one to two years. Cuttlefish feed on small mollusks, crabs, shrimp (shrimp), fish, octopuses, worms and other cuttlefish."
+    },
+    "fish2": {
+      "name": "CAT FISH",
+      "desc": "Scientific name Corydoras) is a genus of fish.\n\n It feeds on leftover food lying at the bottom of the tank, thus preventing it from rotting.\n\nIt also, during its search for food, stirs up the soil of the tank, as it helps facilitate the growth and extension of roots in the plant.It is a strong-tolerant fish that lives in a temperature Relatively low temperature from 21 to 26 ° C.\n\nThe female is larger in size and wider than the male, which is thin and smaller in size than the female"
+    },
+    "fish3": {
+      "name": "GREY CRACKER",
+      "desc": "The mullet or gray mullet is a family (Mugilidae) of finned fish found worldwide in temperate and tropical coastal waters, and some species in freshwater.\n\nThe family includes about 78 species in 20 genera"
+    },
+    "fish4": {
+      "name": "SQUID",
+      "desc": " It is one of the most famous types of heads and is considered the most skilled in swimming and is characterized by its streamlined form.\n, because of its way of rushing inside the water, it is also called the arrow of the seas , as it is called in the countries of the Mediterranean basin the name Calimary and it is called in the Italian language and its unique Calimaro"
+    },
+    "fish5": {
+      "name": "YELLOW TAIL SCAD ",
+      "desc": " YELLOW TAIL SCAD A large marine fish of the chimmel family. This species is widespread in the Pacific Ocean, from East Africa in the West to Hawaii in the east, and extends north to Japan and south to Australia "
+    },
+    "fish6": {
+      "name": "BONITO",
+      "desc": "  Atlantic BONITO, Atlantic BONITO, or Card (Tibetan) is a type of fish, large in size and similar to the thickness of the lactation, this type of fish belongs to the family of liability. It is considered an important commercial and important thickness of amateur hunters. \n is the place of presence: a black sea, the Atlantic Ocean, the Indian Ocean. (Stable)." },
+    "fish7": {
+      "name": "SARDINE",
+      "desc": " For sardines or a health, it is one of the types of fish that lives in the Atlantic Ocean. It is considered one of the natural wealth of North Africa"
+    },
+    "fish8": {
+      "name": "JAPANESE THREADFIN BREAM",
+      "desc":  " It is a species of fish that follows the gender of the qaqa family of the garden species.,For Scientific name: Nemiipterus japonicus ،T،he family: cunning"
+},
+    "fish9": {
+      "name": "CHUB MAKEREL ",
+      "desc":  " Macril or the Pacific Ocean (Dubbed) is a type of fish in the tuna and mackerel family, lacquer. \n Classification: Al -Skmari.\n\n,Scientific name: Scomber Japonicus،Conservation case: unheard (stable)"
+ },
+    "fish10": {
+      "name": "BARRACUDA",
+      "desc": " Paragraph or infertility (ultimate) by Arabic designation, a large gender of huge rectangular, silver -colored fish, covering its body small scales, as it is characterized by its spacing dorsal and its cracked tail, and it lives in all seas and tropical water. Power) in the form of two rows of acute profanity, located around the outer part of the mouth, as it emerges from the lower jaw a pointed hose"
+    },
+    "fish11": {
+      "name": "RIBBONFISH",
+      "desc":  " The large swords or the belt are a member of the sword family, Trichiuuridae. This is the common type between the abundant species in the tropical and moderate oceans around the world. \n is the location of the presence: the Red Sea. \n length: 100 cm (mature animal). (Adult)." },
+    "fish12": {
+      "name": "LOBSTER",
+      "desc": " It is called the lobster or kneelid (((Lobster) from the large marine crustaceans. A marine animal is a man who has five pairs of legs. "
+    },
+    "fish13": {
+      "name": "Shrimp ", 
+      "desc": " Shrimp, shrimp, name of the moon, pharaohs, a water invertebrate, peeling, varies to about two thousand species. \n shrimp in most regions of the world, and lives in water, whether salty or fresh. The small species of it is called shrimp while the large varieties of it are called shrimp"},
+    "fish14": {
+      "name": "Octopus ",
+      "desc": "  For octopus or the rank of octopus and its collection of octopus and addresses, “is the rank of vertical sect, has eight long sensors that take a body of t -shirts full of platforms, and it is classified as a group of mollusks that include squid, scandal, shellfish and other organisms. It is one of the distinctive aquatic neighborhoods. \n The rhetoric lives mainly in the Sea of China and the Mediterranean Sea, and along the coast of Hawaii, North America and Western Andes Islands."   
+    }
+  },
+  "infoNav": {
+    "company": "The Company ",
+    "administrativeStaff": "Supreme Management ",
+    "structure": "Organizational Chart ",
+    "quality": "Quality guarantee ",
+    "certificates": "Testimonies "
+  },
+  "home": {
+    "title": "Arabian Sea Company",
+    "title2": "To import and export seafood",
+    "subtitle": " The Arab Sea Company for Import and Export is established in 2005, where we import and export various types of fresh fish 100%"
+  },
+  "main": {
+    "whous": "About us ",
+    "whyus": "Why us ",
+    "connectus": "CONTACT US ",
+    "vision": "Vision ",
+    "duty": "DUTY ",
+    "objective": "Goals",
+    "goal": "Tasks ",
+    "word": "General word ",
+    "products": "Products ",
+    "favProducts": " The most important products ",
+    "lang": "language",
+    "location": "Location ",
+    "photo": "Photo Gallery",
+    "video": "Video Gallery"
+  },
+  "info": {
+    "whous": "The Arab Sea Company for Hunting and Trade Ltd. The import and export of fish was established in 2005, and it is considered one of the branches of the Chinese National Fish Company (CNFC) as it imports and exports 100% fresh fish. We are committed to sponsoring and developing fish wealth and supervising water bodies, and developing our fish techniques to remain fresh until we satisfy our valued customers",
+    "whyus": " Because we are the leading company in the field of importing and exporting various fish in Yemen, and we are also seeking to be the leading company in the field of import and export worldwide. \n \n as we enjoy very high experiences in the nature of fish varieties and the nature of their shipment, and because we are committed to international safety standards, we are preparing all the appropriate methods of preserving and packaging for varieties, examination and quality control during the process of shipping, discharge, clearance and storage.",
+    "vision": "The Arabian Sea Company for Import and Export of Fish becomes one of the largest companies, the most reliable and distinguished in the field of import and export in the world, and we also seek to be an influential element in promoting the national economy and achieving food security by applying the best quality standards.",
+    "objective": " When it comes to import and export, we have a long -term future look, we are keen on the quality of performance, follow -up and walk with a steady mistake and an ambitious vision. \n We address traders in their language from all over the world to strengthen commercial ties between the country of Yemen and various countries of the world and build a clear economic bridge, strong and easy between all parties, and most of our obligations are to provide fish products to citizens at the lowest prices.",
+    "goal": "When it comes to import and export, we have a long -term future look, we are keen on the quality of performance, follow -up and walk with a steady mistake and an ambitious vision. We address traders in their language from all over the world to strengthen commercial ties between the country of Yemen and various countries of the world and build a clear economic bridge, strong and easy between all parties, and most of our obligations are to provide fish products to citizens at the lowest prices.",
+    "duty": " Continuing to progress, and constantly striving to obtain high ranks in the field of import and export of fish, and to overcome all obstacles and difficulties with challenge, determination, persistence, and strong determination, so that the Arabian Sea Fishing and Trade Co. Ltd. becomes one of the largest, most distinguished and reliable companies.",
+    "generalWord": "It is our pleasure to present to you on this site an overview of our company and its commercial activity around the world and the goals and visions that chart the way for our company in the international as well as the local commercial work market, where our company deals with major world-leading companies, especially in the field of importing and exporting fish, which earned us sharing Experience, development, progress and growth locally and globally\nThe Arabian Sea Company, which was established in Yemen in 2005, operates as a leading company in the field of import and export, especially with regard to marine fish, and despite the difficult times that we faced in our journey, we believe that we have successfully reached a stage of Self-confidence and respect in our field. \nAnd that our success was based on relying on highly qualified employees, a safe and stable financial position, and on the trust granted to us by our friends and business partners around the world and our customers inside our beloved country, and above all, the high team spirit looking forward to achieving The same goals and dreams in the company, whether it is the managing partners or the financial and administrative staff as a whole, we all strive to build a strong and prosperous future."
+  },
+  "administrativeStaff": {
+    "staff1": {
+      "name": "Mr. Huang Jiansheng",
+      "job": "Board member ",
+      "desc": " An inspiring leader and role model of willpower and high quality, and he led the work team to meet the highest standards of professionalism in the company. He has built a solid reputation and long-term relationships with industry partners around the world."
+    },
+    "staff2": {
+      "name": "Dr. Mahmoud Abdul Karim Al-Jubeir ",
+      "job": " Board member and general manager ",
+      "desc": " An inspiring leader and role model of willpower and high quality. He led the work team to meet the highest quality standards in the company. He built a strong reputation and long-term relationships with field partners all over the world. He built the company's infrastructure and was an inspiration for his challenging and motivating leadership. to many employees."
+    },
+    "staff3": {
+      "name": " Sheikh Saleh Ali Mohsen",
+      "job": "Board Chairman ",
+      "desc": "The impressive growth of our company is the result of vision, perseverance, and dedication to community service, creating job opportunities for fishermen and traders with global markets, and preserving the purchasing power of the local market by supporting fishermen and traders, marketing products globally, ensuring international quality standards, serving our community, and relying entirely on local fishermen and traders to bring in products. Fresh, prepared and marketed. \n Strong long-term relationships have been built with our partners in the field, and we plan in the future to expand the company's capacity and activity to include canning and exporting all kinds of marine products."
+    }
+  },
+  "objectives": {
+    "title": {
+      "objective1": "provide best services ",
+      "objective2": "Preserving fish stocks ",
+      "objective3": "Infrastructure construction and rehabilitation",
+      "objective4": "Activate the private sector ",
+      "objective5": "Provide jobs",
+      "objective6": "Closing the market gap ",
+      "objective7": " Permanent support for clients "
+    },
+    "desc": {
+      "objective1": "We always strive to provide the best services in terms of speed, quality and reliability, which guarantees the satisfaction of our customers upon completion of any purchase. Because customer satisfaction is one of our top priorities",
+      "objective2": "Preserving fish stocks in Arab waters exploited by foreign fleets from depletion and deterioration in order for Arab investment to be an alternative or competitor to foreign investment and a participant in local national investment.",
+      "objective3": "Establishing, modernizing and rehabilitating the infrastructure for fisheries industries, trade and fish marketing in several Arab countries.",
+      "objective4": "Maximizing the role of the private sector in special activities and projects in the fields of fish industries, to find outlets for marketing and to build a strong bridge between local traders, traditional fishermen and international markets.",
+      "objective5": "This is done by setting up new projects for the company and bridging the gap between fish production and consumption.",
+      "objective6": " Through the presence of fixed and mobile distribution outlets for the company in all parts of the world.",
+      "objective7": "Through continuous communication with the customer, solving all his problems and meeting his requests, providing attractive offers to attract him and renew confidence, and continuing to provide the best services."
+    }
+  },
+  "products": {
+    "fish1": {
+      "title": "CUTTLEFISH ",
+      "desc": " Squid (singular: cuttlefish) (scientific name: Sepiida) are marine animals belonging to the class of cephalopods of the phylum Molluscs. \n\nThe range of cephalopods includes squids, octopuses, and nuclei. The squid has an internal calcareous shell called the “balan of the sea.”\n\nIt is an internal calcareous shell whose spaces are filled with gas, and by changing the amount of gas, the squid can control buoyancy and diving. Its lifespan ranges from one to two years. Cuttlefish feed on small mollusks, crabs, shrimp (shrimp), fish, octopuses, worms and other cuttlefish"
+    },
+    "fish2": {
+      "title": "CAT FISH ",
+      "desc": " Scientific name Corydoras) is a genus of fish. It feeds on leftover food lying at the bottom of the tank, thus preventing it from rotting.\n\nIt also, during its search for food, stirs up the soil of the tank, as it helps facilitate the growth and extension of roots in the plant.\n\nIt is a strong-tolerant fish that lives in a temperature Relatively low temperature from 21 to 26 ° C.\n\nThe female is larger in size and wider than the male, which is thin and smaller in size than the female."
+    },
+    "fish3": {
+      "title": "GREY CRACKER ",
+      "desc": "The mullet or gray mullet is a family (Mugilidae) of finned fish found worldwide in temperate and tropical coastal waters, and some species in freshwater.\n\nThe family includes about 78 species in 20 genera."
+
+    },
+    "fish4": {
+      "title": "SQUID",
+      "desc": " It is one of the most famous types of heads and is considered the most skilled in swimming and is characterized by its streamlined form.\n, because of its way of rushing inside the water, it is also called the arrow of the seas , as it is called in the countries of the Mediterranean basin the name Calimary and it is called in the Italian language and its unique Calimaro"
+    },
+    "fish5": {
+      "title": "YELLOW TAIL SCAD ",
+      "desc": " YELLOW TAIL SCAD A large marine fish of the chimmel family. This species is widespread in the Pacific Ocean, from East Africa in the West to Hawaii in the east, and extends north to Japan and south to Australia. "
+    },
+    "fish6": {
+      "title": "BONITO ",
+      "desc": " Atlantic BONITO, Atlantic BONITO, or Card (Tibetan) is a type of fish, large in size and similar to the thickness of the lactation, this type of fish belongs to the family of liability. It is considered an important commercial and important thickness of amateur hunters. \n is the place of presence: a black sea, the Atlantic Ocean, the Indian Ocean. (Stable)."
+    },
+    "fish7": {
+      "title": " SARDINE ",
+      "desc": " For sardines or a health, it is one of the types of fish that lives in the Atlantic Ocean. It is considered one of the natural wealth of North Africa."
+    },
+    "fish8": {
+      "title": "JAPANESE THREADFIN BREAM",
+      "desc": " It is a species of fish that follows the gender of the qaqa family of the garden species.,For Scientific name: Nemiipterus japonicus ،The family: cunning"
+    },
+    "fish9": {
+      "title": "CHUB MAKEREL",
+      "desc": " Macril or the Pacific Ocean (Dubbed) is a type of fish in the tuna and mackerel family, lacquer. \n Classification: Al -Skmari.,Scientific name: Scomber Japonicus،Conservation case: unheard (stable)"
+    },
+    "fish10": {
+      "title": " BARRACUDA",
+      "desc": "Paragraph or infertility (ultimate) by Arabic designation, a large gender of huge rectangular, silver -colored fish, covering its body small scales, as it is characterized by its spacing dorsal and its cracked tail, and it lives in all seas and tropical water. Power) in the form of two rows of acute profanity, located around the outer part of the mouth, as it emerges from the lower jaw a pointed hose"
+    },
+    "fish11": {
+      "title": "RIBBONFISH",
+      "desc": "The large swords or the belt are a member of the sword family, Trichiuuridae. This is the common type between the abundant species in the tropical and moderate oceans around the world. \n is the location of the presence: the Red Sea. \n length: 100 cm (mature animal). (Adult)."
+    },
+    "fish12": {
+      "title": "LOBSTER ",
+      "desc": "It is called the lobster or kneelid (((Lobster) from the large marine crustaceans. A marine animal is a man who has five pairs of legs. "
+    }
+  },
+  "connect": {
+    "title": "contact with us",
+    "btn": "Send a Message",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "placeholder": {
+      "name": "Enter Your Name Here",
+      "email": "Enter Your Email",
+      "message": "Enter Your Message"
+    },
+    "validation": {
+      "required": "Feild is required",
+      "min": "Feild must be greater than 3 characters",
+      "max": "must be less than 150 characters",
+      "emailValid": "E-mail must be valid"
+    },
+    "sideInfo": "We are pleased with your interest in visiting our website, which has been developed to be a channel of communication with you and to inform you of our vision, goals, services and future plans.",
+    "mainInfo": "We will receive your e-mail messages here, please fill in all fields to serve you in the best way."
+  },
+  "note": {
+    "defualtErrMsg": " An error has occurred  ",
+    "sendMsg":  " Message sent successfully"
+  },
+  "footer": {
+    "title": " Arabian Sea Fishing and Trading Co. Ltd",
+    "subtitle": "Branch of the China National Fish Company",
+    "para": " The Arabian Sea Fishing and Trading Co., Ltd. is honored to receive the requests of its customers, provide the best marine services and products, consultancy, contracts and facilities, and meet any inquiries, to ensure the movement of freight and business and the arrival of products in a fast and safe manner and with international quality standards",
+    "note": "Arabian Sea Fishing and Trading Co. Ltd. - All rights reserved",
+    "createdByTitle": " Design and development",
+    "createdByName": "Novel Soft  "
+  },
+  "quality": {
+    "subtitle":  " The Arabian Sea Fishing and Trading Co., Ltd. provides all our customers around the world with an integrated Chinese crew with more than 30 years of experience in the production of marine life. CNFC branches (China National Fisheries Corporation) \nWe are also proud that we have an integrated team of experience in logistical support in transportation, customer support and selling on all three conditions (sale of warehouses Sea, Food, accuracy in delivery times, adherence to international quality standards and facilitation All transactions and procedures for customers",
+    "qualityMng": {
+      "title": "Quality Management",
+      "desc1": "Quality management is concerned with international standards of quality, and we have a great interest in receiving marine products from fishermen, local merchants, and associations, and fishing with the highest degree of care to receive fresh, high-quality fish that is commensurate with the company's policy and quality management policy",
+      "desc2": "Quality management consists of 28 Chinese employees, with more than 20 years of experience in receiving and preparing marine products, managing quality and selling on internationally known terms of sale, coordinating with the Logistics Department to facilitate shipping, transactions and procedures for all our customers and selling according to customer requests and great attention to time, not wasting it because of its impact Big on profits and speed of performance."
+    },
+    "purchaseMng": {
+      "title": "Purchasing Management ",
+      "decs": " It consists of 5 Chinese employees committed to receiving fresh, high-quality marine products according to the appropriate quality standards"
+    }
+  }
+}
